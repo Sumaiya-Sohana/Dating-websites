@@ -1,0 +1,6 @@
+{
+  "name": "Our Romantic Date Journey",
+  "description": "A personal, elegant, interactive romantic date planning and celebration experience for two.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
